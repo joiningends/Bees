@@ -1,0 +1,26 @@
+/* customConfirmAlert.css */
+
+.react-confirm-alert-body {
+
+  color: #4b57ad; /* Text color */
+}
+
+.react-confirm-alert-button-group {
+  display: flex;
+  justify-content: center;
+}
+
+.react-confirm-alert-button-group button {
+  background-color: #4b57ad; /* Button background color */
+  color: white; /* Button text color */
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.react-confirm-alert-button-group button:hover {
+  background-color: #4b57ad; /* Hover background color */
+  color: white; /* Hover text color */
+}
